@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7140 64-bit) (preloaded format=xelatex 2019.12.8)  1 JUN 2020 08:44
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7140 64-bit) (preloaded format=xelatex 2019.12.8)  1 JUN 2020 10:20
 entering extended mode
-**"./Process Analysis.tex"
-("Process Analysis.tex"
+**"./Those Who Were Once People.tex"
+("Those Who Were Once People.tex"
 LaTeX2e <2018-12-01>
 ("D:\Program Files\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
@@ -450,8 +450,8 @@ ppercase].
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-("Process Analysis.aux")
-\openout1 = `"Process Analysis.aux"'.
+("Those Who Were Once People.aux")
+\openout1 = `"Those Who Were Once People.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
@@ -605,14 +605,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-[11] ("Process Analysis.aux") ) 
+[11] ("Those Who Were Once People.aux") ) 
 Here is how much of TeX's memory you used:
  14456 strings out of 427669
- 309619 string characters out of 3149215
- 413974 words of memory out of 3000000
+ 309719 string characters out of 3149215
+ 414004 words of memory out of 3000000
  18466 multiletter control sequences out of 15000+200000
  537087 words of font info for 55 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 44i,5n,115p,1069b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,5n,115p,1079b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Process Analysis.pdf (11 pages).
+Output written on Those Who Were Once People.pdf (11 pages).
